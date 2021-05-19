@@ -1,0 +1,14 @@
+#install local files
+-e .
+
+#external files
+numpy
+notebook
+scikit-learn
+pandas
+matplotlib
+mlflow
+xgboost
+lightgbm
+tensorflow
+
