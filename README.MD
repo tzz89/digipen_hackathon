@@ -8,5 +8,3 @@ To replicate this project
 5. Launch jupyter notebook
 
 
-To run mlflow server
-1. Use XXXXX  #TODO 
